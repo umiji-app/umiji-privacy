@@ -8,19 +8,38 @@ Last updated: 2026-11-20
 
 [日本語](../)
 
-"Umiji" (the "App") does not collect personal information such as your name, email address, or location. It has no servers or accounts, and communicates outside your device only to show maps and ads.
+Umiji (海路, the “App”) respects your privacy. This policy explains how information is handled by the App.
 
-## Information kept on your device, and maps
-- **Catch records**: the species and size of fish you catch, and the port, spot, month, time of day, method and date. They are stored only on your device and used for the field guide and catch log.
-- **Maps**: maps of ports and fishing spots are shown with Apple's map service (MapKit), which downloads map data for the area on screen from Apple. The App does not use your location and does not ask for location permission. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
-- **Seafloor data**: the App includes bathymetry data (GEBCO Compilation Group (2021) GEBCO 2021 Grid). No network access is involved.
+## 1. General approach
+The App does not require an account or ask you to enter your name or email address. It does not use your location. We do not operate a server to collect catch records. The App communicates with external services to display maps (Section 2) and ads (Section 3). These services handle information as described below.
 
-## Advertising (Google AdMob)
-The App uses Google AdMob. To serve ads, measure impressions, and prevent fraud, Google may collect device information (model, OS version, language), network information (IP address and approximate region), and ad records (ads shown or tapped). The App does not ask for tracking permission, and the IDFA is not used without your permission. See [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+## 2. On-device information and maps
+- **Catch records**: Records include the species and size of each fish, the port, fishing spot, month, time of day, fishing method, and the date and time of the catch. They are used to display the fish guide and catch log, stored only on your device, and never sent outside it.
+- **Maps**: The App displays maps of ports and fishing spots using Apple's map service (MapKit). It fetches map data for the area shown on screen from Apple. The App does not use your location or request location permission. For details on how Apple handles information, see [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+- **Seafloor data**: The App uses included bathymetry data (GEBCO Compilation Group (2021) GEBCO 2021 Grid). Using this data does not require network communication.
 
-## Deleting data
-Deleting the App erases all information it stored on your device. You can also erase your catch records with "リセット" on the catch log screen.
+## 3. Advertising (Google AdMob)
+The App uses Google AdMob, an advertising service provided by Google LLC. To serve ads, measure impressions, and prevent fraud, Google may collect information such as:
 
-## Contact
+- **Device information**: Device model, OS version, and language.
+- **Network information**: IP address and the approximate region inferred from it.
+- **Ad activity**: Records of ads displayed or tapped.
+
+The App does not request tracking permission through App Tracking Transparency. The advertising identifier (IDFA) is not used without your permission.
+For details, see [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
+## 4. Sharing with third parties
+We do not sell your information. We do not share it with third parties except through the external services described in Sections 2 and 3.
+
+## 5. Deleting data
+Deleting the App from your device erases all information the App has stored on it. You can also erase both catch records and fish guide records by selecting “リセット” (Reset) on the “釣果” (Catch Log) screen.
+
+## 6. Children
+Ads are configured to show content suitable for all ages. We do not knowingly collect children's personal information.
+
+## 7. Changes to this policy
+We may revise this policy as needed. Significant changes will be announced through an app update or on this page.
+
+## 8. Contact
 - Email: j61382584@gmail.com
 - Support: [support.html](../support.html)
